@@ -1,0 +1,3 @@
+displayName = Server Essentials
+author = pbone
+version = 0.1
